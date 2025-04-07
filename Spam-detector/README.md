@@ -136,11 +136,8 @@ The biggest learning here was that **model performance isn't everything** — ho
 
 > 📝 Note: Some folders like `models/`, `app/`, and `src/` were created as placeholders for future modularization and deployment steps. Currently, all code resides in the Jupyter notebook.
 
----
 
-### ▶️ Usage Instructions
-
-```markdown
+# ▶️ Usage Instructions
 ## ▶️ How to Run the Project
 
 1. **Clone this repository**:
